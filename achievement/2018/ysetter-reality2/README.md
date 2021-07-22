@@ -2,3 +2,4 @@
 
 Project Github, demo video and example screenshots: [here](https://github.com/kennaruk/YsetterHackathon)
 
+Event video: [link](https://www.facebook.com/watch/?v=883219188546436)
